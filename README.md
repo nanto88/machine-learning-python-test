@@ -1,4 +1,4 @@
-# machine-learning-python-test
+# ml-python-test
 Test machine learning with package [scikit learn](https://github.com/user/repo/blob/branch/other_file.md)
 
 from [Siraj Raval](https://www.youtube.com/watch?v=T5pRlIbr6gg) youtube videos 
